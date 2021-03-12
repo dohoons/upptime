@@ -8,11 +8,10 @@ sites:
     url: https://dohoons.com
 
 status-website:
-  # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status: dohoons
-  introTitle: Status: dohoons
+  name: dohoons
+  introTitle: Status dohoons
   introMessage: Ubiquitous Web
   navbar:
     - title: Status
