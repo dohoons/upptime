@@ -16,7 +16,7 @@ status-website:
   introMessage: Ubiquitous Web
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/dohoons
 
