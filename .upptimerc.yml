@@ -18,3 +18,8 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/dohoons
+
+notifications:
+  NOTIFICATION_SLACK: true
+  NOTIFICATION_SLACK_WEBHOOK: true
+  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
