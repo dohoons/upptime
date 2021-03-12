@@ -3,8 +3,9 @@ owner: dohoons # Your GitHub username
 repo: upptime # Your GitHub repository name
 
 env:
-  NOTIFICATION_SLACK = true
-  NOTIFICATION_SLACK_WEBHOOK = true
+  NOTIFICATION_SLACK: true
+  NOTIFICATION_SLACK_WEBHOOK: true
+  NOTIFICATION_SLACK_WEBHOOK_URL: $NOTIFICATION_SLACK_WEBHOOK_URL
 
 # Add your sites here
 sites:
