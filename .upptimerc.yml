@@ -1,6 +1,7 @@
 # Change these first
 owner: dohoons # Your GitHub username
 repo: upptime # Your GitHub repository name
+user-agent: dohoonsbot
 
 # Add your sites here
 sites:
