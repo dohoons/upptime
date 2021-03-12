@@ -18,6 +18,10 @@ status-website:
       href: /upptime
     - title: GitHub
       href: https://github.com/dohoons
+      
+notifications:
+  - type: slack
+    channel: C01R25PSN1Z
 
 # notifications:
 #   NOTIFICATION_SLACK_STRATEGY: roundrobin
