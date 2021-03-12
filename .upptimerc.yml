@@ -19,8 +19,8 @@ status-website:
     - title: GitHub
       href: https://github.com/dohoons
 
-notifications:
-  NOTIFICATION_SLACK_STRATEGY: roundrobin
-  NOTIFICATION_SLACK: true
-  NOTIFICATION_SLACK_WEBHOOK: true
-  NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
+# notifications:
+#   NOTIFICATION_SLACK_STRATEGY: roundrobin
+#   NOTIFICATION_SLACK: true
+#   NOTIFICATION_SLACK_WEBHOOK: true
+#   NOTIFICATION_SLACK_WEBHOOK_URL: ${{ secrets.NOTIFICATION_SLACK_WEBHOOK_URL }}
