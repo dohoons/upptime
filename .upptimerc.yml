@@ -8,14 +8,14 @@ sites:
     url: https://dohoons.com
 
 status-website:
-  baseUrl: /upptime
+  baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: dohoons
   introTitle: Status dohoons
   introMessage: Ubiquitous Web
   navbar:
     - title: Status
-      href: /upptime
+      href: /uptime
     - title: GitHub
       href: https://github.com/dohoons
 
