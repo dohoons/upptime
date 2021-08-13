@@ -4,17 +4,17 @@
     "url": "https://dohoons.com",
     "icon": "https://favicons.githubusercontent.com/dohoons.com",
     "slug": "dohoons-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2076,
-    "timeDay": 1995,
-    "timeWeek": 2188,
-    "timeMonth": 1999,
-    "timeYear": 2076,
+    "time": 2071,
+    "timeDay": 1795,
+    "timeWeek": 2114,
+    "timeMonth": 1983,
+    "timeYear": 2071,
     "dailyMinutesDown": {}
   }
 ]
